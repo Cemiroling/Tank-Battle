@@ -1,0 +1,96 @@
+
+texture.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+LeftUnpressed
+  rotate: false
+  xy: 1, 476
+  size: 512, 528
+  orig: 512, 528
+  offset: 0, 0
+  index: -1
+DownPressed
+  rotate: false
+  xy: 515, 492
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+RightUnpressed
+  rotate: false
+  xy: 1029, 492
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+UpPressed
+  rotate: false
+  xy: 1543, 500
+  size: 512, 504
+  orig: 512, 504
+  offset: 0, 0
+  index: -1
+UpUnpressed
+  rotate: false
+  xy: 2057, 500
+  size: 512, 504
+  orig: 512, 504
+  offset: 0, 0
+  index: -1
+DownUnpressed
+  rotate: false
+  xy: 2571, 507
+  size: 512, 497
+  orig: 512, 497
+  offset: 0, 0
+  index: -1
+LeftPressed
+  rotate: false
+  xy: 3085, 507
+  size: 512, 497
+  orig: 512, 497
+  offset: 0, 0
+  index: -1
+Tank1
+  rotate: false
+  xy: 515, 424
+  size: 736, 66
+  orig: 736, 66
+  offset: 0, 0
+  index: -1
+RightPressed
+  rotate: false
+  xy: 1543, 1
+  size: 512, 497
+  orig: 512, 497
+  offset: 0, 0
+  index: -1
+tank2
+  rotate: false
+  xy: 3599, 940
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 1, 446
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+stonewall
+  rotate: false
+  xy: 2057, 478
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+stena
+  rotate: false
+  xy: 1253, 471
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
